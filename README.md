@@ -8,5 +8,10 @@
 
 [google](https://google.com)
 
-![alt test](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokemon.fandom.com%2Fko%2Fwiki%2F%25ED%2594%25BC%25EC%25B9%25B4%25EC%25B8%2584_(%25ED%258F%25AC%25EC%25BC%2593%25EB%25AA%25AC)&psig=AOvVaw1hLQg-Ex5KJ4iq69XqAnqa&ust=1664516141405000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJj-nPyjufoCFQAAAAAdAAAAABAD)
+![alt test](https://w.namu.la/s/d8b288c89ac9bf6ed3def16676889417e80d87ac7f3ead7eed326d42f1422facc94f1dd27356c0c2caec057052b4cdca1898f4a54cfd7a446d1cec8d08677f1143a42c77e604bc8c5cc9acc80758677957b620f029d99cee652c013f741d9f222191a6ea80aa3e48e072aa511be36727)
+
+```
+def print():
+  asdfawegawgaw
+```
 
